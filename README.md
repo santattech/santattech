@@ -19,7 +19,8 @@ santattech = {
 #### Contribution to the world
 My lines of code help thousands to ease theie life 
 
-![Santanu's github stats](https://github-readme-stats.vercel.app/api?username=santattech)
+![My github stats](https://github-readme-stats.vercel.app/api?username=santattech)
+![My github stats](https://github-readme-stats.vercel.app/api?username=qisantanu)
 
 
 #### 📫 How to reach me ...
