@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Web developer building things specially with Ruby and Rails
+- 👋 Hi, I’m a Web developer building things specially with Ruby and Rails, AWS. Right now getting interested in GO.
 - 👀 I'm interested in technology
 #### A little more about me...
 
@@ -7,7 +7,7 @@ santattech = {
       pronouns: "he" | "him",
      code: [Ruby, Jruby, Rails, Javascript, Typescript, HTML, CSS],
      tools: [Docker, React, Gitactions, Jenkins, AWS, Heroku, Git],
-     about_me: "I am passionate about programming, and learning. I am addicted to google maps."
+     about_me: "I am passionate about programming, and learning. I am addicted to https://lichess.org/ &  google maps."
 }
 ```
 
