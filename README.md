@@ -5,7 +5,7 @@
 ```
 santattech = {
       pronouns: "he" | "him",
-     code: [Ruby, Jruby, Rails, Javascript, Typescript, HTML, CSS],
+     code: [Ruby, Jruby, Rails, Javascript, Turbo, Stimulus, Typescript, HTML, CSS],
      tools: [Docker, React, Gitactions, Jenkins, AWS, Heroku, Git],
      about_me: "I am passionate about programming, and learning. I am addicted to https://lichess.org/ &  google maps."
 }
